@@ -33,7 +33,7 @@ Una librería completa e implementada desde cero para el manejo avanzado de cade
 
 ```bash
 # 1. Clonar el repositorio (o descargar archivos)
-git clone https://github.com/Anoy12547/stringLibrary.git
+git clone https://github.com/Andy12547/StringLibrary.git
 cd stringLibrary
 
 # 2. Compilar el programa
