@@ -1,2 +1,2 @@
-# StringLibrary
-Cadenas y "hello word" en C++
+# String Library Project
+Proyecto de librería de cadenas en C++
